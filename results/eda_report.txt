@@ -1,0 +1,26 @@
+HAND GESTURE DATASET EDA REPORT
+===================================
+Total labeled images: 40000
+Number of classes: 10
+Number of subject folders: 10
+
+Images per class:
+class
+01_palm          4000
+02_l             4000
+03_fist          4000
+04_fist_moved    4000
+05_thumb         4000
+06_index         4000
+07_ok            4000
+08_palm_moved    4000
+09_c             4000
+10_down          4000
+
+Image dimensions:
+width  height
+640    240       40000
+
+Image modes:
+mode
+L    40000
